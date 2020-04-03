@@ -1,2 +1,1 @@
-# tindog-practice
-Practicing Bootstrap
+TinDog Starting Files
